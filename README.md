@@ -1,9 +1,9 @@
 # Rules
-- [x] #739 clone this repository
-### 1st Try to create branch
+1. clone this repository
+2. 1st Try to create branch
 `git checkout -b yourBranchName` 
-### pull from development branch 
+3. pull from development branch 
 `git pull origin development`
-### Lets try some code & push your code to your branch branch 
+4. Lets try some code & push your code to your branch branch 
 `git push --set-upstram origin YourBranchName`
-### thats it.. After this I will check your codes and will merge
+### Thats it.. After this I will check your codes and will merge
