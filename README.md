@@ -1,5 +1,5 @@
 # Rules
-### clone this repository
+- [x] #739 clone this repository
 ### 1st Try to create branch
 `git checkout -b yourBranchName` 
 ### pull from development branch 
