@@ -2,7 +2,7 @@
 1. clone this repository
 2. 1st Try to create branch
 `git checkout -b yourBranchName` 
-3. pull from development branch 
+3. pull from development branch ( I already created development branch and a JSX file in src )
 `git pull origin development`
 4. Lets try some code & push your code to your branch branch 
 `git push --set-upstram origin YourBranchName`
